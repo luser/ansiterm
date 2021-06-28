@@ -1,3 +1,5 @@
+Forked to setup GitHub Pages.
+
 ### ansiterm
 
 Proper configurations for viewing ANSI art or telnetting/SSHing to BBSes in
